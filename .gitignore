@@ -1,0 +1,13 @@
+data/kuvat.zip
+data/kuvat/*
+train_data/images/train/*.jpg
+train_data/images/val/*.jpg
+train_data/images/train/*.png
+train_data/images/val/*.png
+
+yolov5/*
+.cache
+.npy
+train.cache
+val.cache
+.ipynb_checkpoints

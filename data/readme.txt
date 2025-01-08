@@ -1,0 +1,1 @@
+tänne datakansioon tulee luoda kansio "kuvat", ja sinne lisätään ne 10022 kuvaa.
