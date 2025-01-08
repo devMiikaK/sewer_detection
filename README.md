@@ -4,6 +4,11 @@ Tämä projekti oli toimeksianto Crowdsorsalle, ja kuvadata on heidän.
 
 Alla ovat vaiheittaiset ohjeet YOLOv5-mallin asentamiseen, kouluttamiseen ja käyttämiseen kaivojen kansien havaitsemiseksi kuvista. Projektissa käytettiin noin 10000 .jpg-kuvaa, jotka on tallennettu kansioon data/kuvat. 
 
+<p float="left">
+  <img src="images/exp/100000_kultsieki.jpg" width="100" />
+  <img src="images/exp/96593_Piiskalainen.jpg" width="100" /> 
+</p>
+
 ### Tiedostot ajetaan järjestyksessä:
 1. 1_yolov5_install.ipynb
 2. 2_data_copy.ipynb
